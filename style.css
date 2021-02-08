@@ -1,0 +1,38 @@
+body {
+  text-align:center;
+  background-color:orange;
+   background-image: linear-gradient(to right, red , yellow);
+}
+h1 {
+  text-shadow:2px 2px #F8BBDO;
+}
+#img1 {
+  border-radius: 50%;
+  width: 200px;
+}
+#bio {
+  padding; 20px;
+  font-size: 18;
+}
+.menu {
+    position: fixed;
+    z-index: 10;
+    list-style: none;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: cursive;
+}
+.link:hover {
+    background-color: firebrick;
+}
+#mywork {
+    text-align: center;
+}
+#img3 {
+    height: 500px;
+    width: 600px;
+} 
+html {
+    scroll-behavior: smooth;
+}
